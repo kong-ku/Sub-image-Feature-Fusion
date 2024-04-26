@@ -3,4 +3,4 @@ This is the official implementation of paper, "Road Weather Condition Detection 
 
 <img src="figures/figure.png" width="800" height="350">
 
-The code will be made public after the paper is accepted.
+Codes will be made public after the paper is accepted.
